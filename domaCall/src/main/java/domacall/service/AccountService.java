@@ -3,7 +3,6 @@ package domacall.service;
 import org.springframework.stereotype.Service;
 
 import domalib.dao.AccountDao;
-import domalib.dao.AccountDaoImpl;
 import domalib.entity.AccountEntity;
 
 import org.springframework.beans.factory.annotation.Autowired;
